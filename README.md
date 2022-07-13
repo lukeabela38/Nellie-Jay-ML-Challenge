@@ -1,4 +1,4 @@
-# SmartCow-ML-Assignment
+# ML-Assignment
 
 Assignment as an entry requirement for employment at [SmartCow AI](https://smartcow.ai/)
 Data not included in repository.

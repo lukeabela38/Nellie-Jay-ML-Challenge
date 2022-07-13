@@ -1,6 +1,5 @@
 # ML-Assignment
 
-Assignment as an entry requirement for employment at [SmartCow AI](https://smartcow.ai/)
 Data not included in repository.
 
 To execute (assuming you have obtained data):
